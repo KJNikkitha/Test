@@ -73,5 +73,8 @@ public class Restaurant {
 
     public void setClosingTime(LocalTime closingTime) {
         this.closingTime=closingTime;
+          }
+    
+    public void orderTotal () {
     }
 }
